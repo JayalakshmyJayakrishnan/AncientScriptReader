@@ -9,7 +9,7 @@ This project aims to develop a system for translating ancient texts, lost script
 - **Future Enhancements:** Plans to integrate higher-accuracy models (e.g., IndicTrans, ByT5-Sanskrit) and deploy a web-based UI.
 
 ## Project Status
-This project is currently under progress. The initial setup, OCR, and training pipeline are being developed and tested. Training is scheduled to complete after May 23, 2025, with ongoing refinements planned for subsequent phases.
+This project is currently under progress. The initial setup, OCR, and training pipeline are being developed and tested. Training is scheduled to complete after May 23, 2025, with ongoing refinements planned for subsequent phases. (My uni exams are approaching (✿◡‿◡) )
 
 ## Requirements
 - **Python 3.13**
