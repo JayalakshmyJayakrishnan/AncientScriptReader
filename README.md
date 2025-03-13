@@ -27,6 +27,6 @@ This project is currently under progress. The initial setup, OCR, and training p
   - Visual Studio Build Tools
  
 
-**Wish me luck ヾ(≧▽≦*)o**
+**Wish me luck ヾ(≧▽≦*)o*
 
 
