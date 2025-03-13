@@ -28,5 +28,5 @@ This project is currently under progress. The initial setup, OCR, and training p
  
 
 **Wish me luck ヾ(≧▽≦*)o*
-
+*If you wanna help me improve the methodology, or guide me, kindly contact me either via LinkedIn or lakshmystudy21@gmail.com (´▽`ʃ♡ƪ))*
 
