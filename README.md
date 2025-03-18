@@ -1,7 +1,7 @@
 # Ancient Script Reader
 
 ## Overview
-This project aims to develop a system for translating ancient texts, lost scripts, and decipher them into English. Initially, I'm working with Sanskrit texts. The aim is to convert Sanskrit texts (including ancient scripts like those from the *Valmiki Ramayana*) into English using Optical Character Recognition (OCR) and machine learning. The solution leverages pre-trained models (e.g., Helsinki-NLP/opus-mt-hi-en) for initial translation, with plans to fine-tune and enhance accuracy using advanced models like IndicTrans or ByT5-Sanskrit in future phases. 
+This project aims to develop a system for translating ancient texts, lost scripts, and decipher them into English. Initially, I'm working with Sanskrit texts. The aim is to convert Sanskrit texts into English using Optical Character Recognition (OCR) and machine learning. The solution leverages pre-trained models (e.g., Helsinki-NLP/opus-mt-hi-en) for initial translation, with plans to fine-tune and enhance accuracy using advanced models like IndicTrans or ByT5-Sanskrit in future phases. 
 ## Features
 - **OCR Extraction:** Converts Sanskrit text from images (e.g., `editedsan.jpg`) into machine-readable format using Tesseract OCR.
 - **Translation:** Implements a dictionary-based translation for initial Sanskrit-to-English conversion, with fine-tuning using Hugging Face Transformers.
